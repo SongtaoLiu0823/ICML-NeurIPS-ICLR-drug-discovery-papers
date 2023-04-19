@@ -467,104 +467,54 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **GRASP: Navigating Retrosynthetic Planning with Goal-driven Policy**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=ofwkaIWFqqv)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Regularized Molecular Conformation Fields**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=7XCFxnG8nGS) [\[code\]](https://github.com/leowang1217/RMCF) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Cross-Linked Unified Embedding for cross-modality representation learning**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=Tfb73TeKnJ-) [\[code\]](https://github.com/gao-lab/GLUE) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=jSorGn2Tjg) [\[code\]](https://github.com/luost26/diffab) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Equivariant Graph Hierarchy-Based Neural Networks**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.10643.pdf) [\[code\]](https://github.com/hanjq17/EGHN) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **An Efficient Graph Generative Model for Navigating Ultra-large Combinatorial Synthesis Libraries**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.04468.pdf) [\[code\]](https://github.com/AtomwiseInc/cslvae) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Residual Multiplicative Filter Networks for Multiscale Reconstruction**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.00746.pdf) [\[code\]](https://shekshaa.github.io/ResidualMFN/) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=MSBDFwGYwwt) [\[code\]]() 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.08515.pdf) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Non-identifiability and the Blessings of Misspecification in Models of Molecular Fitness**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=CwG-o0ind6t)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **On the Symmetries of the Synchronization Problem in Cryo-EM: Multi-Frequency Vector Diffusion Maps on the Projective Plane**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=owDcdLGgEm)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Equivariant Networks for Crystal Structures**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.15420.pdf) [\[code\]]() 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Exploring Evolution-aware & -free Protein Language Models as Protein Function Predictors**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.06583.pdf) [\[code\]](https://github.com/elttaes/Revisiting-PLMs) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Diffusion-based Molecule Generation with Informative Prior Bridges**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2209.00865.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Local Latent Space Bayesian Optimization over Structured Inputs**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2201.11872.pdf) [\[code\]](https://github.com/nataliemaus/lolbo) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Unsupervised Learning of Group Invariant and Equivariant Representations**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.07559.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Symmetry-induced Disentanglement on Graphs**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=4tM0P_4N8D9)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **So3krates: Equivariant Attention for Interactions on Arbitrary Length-scales in Molecular Systems**, **, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.14276.pdf) [\[code\]](https://github.com/thorben-frank/mlff) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Multi-objective Deep Data Generation with Correlated Property Control**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2210.01796.pdf) [\[code\]](https://github.com/shi-yu-wang/CorrVAE) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **ToDD: Topological Compound Fingerprinting in Computer-Aided Drug Discovery**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.03808.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=zVglD2W0EAS) [\[code\]](https://github.com/ssshddd/DrugRec) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding and Molecule Design**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.13927.pdf) [\[code\]](https://github.com/automl/ProbTransformer) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2204.13545.pdf) [\[code\]](https://github.com/theislab/chemCPA) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Molecule Generation by Principal Subgraph Mining and Assembling**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2106.15098.pdf) [\[code\]](https://github.com/THUNLP-MT/PS-VAE) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Torsional Diffusion for Molecular Conformer Generation**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.01729.pdf) [\[code\]](https://github.com/gcorso/torsional-diffusion) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Zero-Shot 3D Drug Design by Sketching and Generating**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2209.13865.pdf) [\[code\]](https://github.com/longlongman/DESERT) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
-
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 

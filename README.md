@@ -323,17 +323,61 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Co-evolution Transformer for Protein Contact Prediction**, *NeurIPS*, 2021. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/770f8e448d07586afbf77bb59f698587-Paper.pdf) [\[code\]](https://github.com/microsoft/ProteinFolding/tree/main/coevolution_transformer) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.06389.pdf) [\[code\]](https://github.com/wenhao-gao/SynNet) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.04624.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Ab-Initio Potential Energy Surfaces by Pairing GNNs with Neural Wave Functions**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.05064.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2111.07786.pdf) [\[code\]](https://github.com/octavian-ganea/equidock_public) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.02905.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Chemical-Reaction-Aware Molecule Representation Learning**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2109.09888.pdf) [\[code\]](https://github.com/hwwang55/MolR) 
+
+* **OntoProtein: Protein Pretraining With Gene Ontology Embedding**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2201.11147.pdf) [\[code\]](https://github.com/zjunlp/OntoProtein) 
+
+* **Simple GNN Regularisation for 3D Molecular Property Prediction & Beyond**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2106.07971.pdf) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc/pcq) 
+
+* **Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=EVVadRFRgL7) [\[code\]](https://github.com/Shen-Lab/Bayesian-L2O) 
+
+* **Spherical Message Passing for 3D Molecular Graphs**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=givsRXsOt9r) [\[code\]](https://github.com/divelab/DIG) 
+
+* **Crystal Diffusion Variational Autoencoder for Periodic Material Generation**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.06197.pdf) [\[code\]](https://github.com/txie-93/cdvae) 
+
+* **Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2106.02190.pdf) [\[code\]](https://github.com/yulun-rayn/DGAPN) 
+
+* **Ancestral Protein Sequence Reconstruction using A Tree-structured Ornstein-Uhlenbeck Variational Autoencoder**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=FZoZ7a31GCW) [\[code\]](https://github.com/LysSanzMoreta/DRAUPNIR_ASR) 
+
+* **Differentiable Scaffolding Tree for Molecular Optimization**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=w_drCosT76) [\[code\]](https://github.com/futianfan/DST) 
+
+* **Pre-training Molecular Graph Representation with 3D Geometry**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.07728.pdf) [\[code\]](https://github.com/chao1224/GraphMVP) 
+
+* **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=C03Ajc-NS5W)  
+
+* **Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.04383.pdf) [\[code\]](https://github.com/keiradams/ChIRo) 
+
+* **Energy-Inspired Molecular Conformation Optimization**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=7QfLW-XZTl) [\[code\]](https://github.com/guanjq/confopt_official) 
+
+* **Graph Neural Networks with Learnable Structural and Positional Representations**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.07875.pdf) [\[code\]](https://github.com/vijaydwivedi75/gnn-lspe) 
+
+* **Learning to Extend Molecular Scaffolds with Structural Motifs**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2103.03864.pdf) [\[code\]](https://github.com/microsoft/molecule-generation) 
+
+* **A Benchmark for Experimental Design in Drug Discovery**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=-w2oomO6qgc)  
+
+* **Equivariant Graph Mechanics Networks with Constraints**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.06442.pdf) [\[code\]](https://github.com/hanjq17/GMN) 
+
+* **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.02923.pdf) [\[code\]](https://github.com/MinkaiXu/GeoDiff) 
+
+* **Top-N: Equivariant Set and Graph Generation without Exchangeability**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.02096.pdf) [\[code\]](https://github.com/cvignac/Top-N) 
+
+* **Geometric Transformers for Protein Interface Contact Prediction**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.02423.pdf) [\[code\]](https://github.com/BioinfoMachineLearning/DeepInteract) 
+
+* **Data-Efficient Graph Grammar Learning for Molecular Generation**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.08031.pdf) [\[code\]](https://github.com/gmh14/data_efficient_grammar) 
+
+* **TorchMD-NET: Equivariant Transformers for Neural Network based Molecular Potentials**, *ICLR*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.02541.pdf) [\[code\]](https://github.com/torchmd/torchmd-net) 
+
+* **Spanning Tree-based Graph Generation for Molecules**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=w60btE_8T2m)  
 
 * ****, **, 2022. [\[pdf\]]() [\[code\]]() 
 

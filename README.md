@@ -265,40 +265,120 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/thygesen21a/thygesen21a.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **GEOMOL: Torsional Geometric Generation of Molecular 3D Conformer Ensembles**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.07802.pdf) [\[code\]](https://github.com/PattanaikL/GeoMol) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Towards Understanding Retrosynthesis by Energy-based Models**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2007.13437.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Learning Graph Models for Retrosynthesis Prediction**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2006.07038.pdf) [\[code\]](https://github.com/vsomnath/graphretro) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Functionally Regionalized Knowledge Transfer for Low-resource Drug Discovery**, *NeurIPS*, 2021. [\[pdf\]](https://papers.nips.cc/paper/2021/file/459a4ddcb586f24efd9395aa7662bc7c-Paper.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2111.01186.pdf) [\[code\]](https://github.com/aryandeshwal/LADDER) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Improving Black-box Optimization in VAE Latent Space using Decoder Uncertainty**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2107.00096.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2110.01219.pdf) [\[code\]](https://github.com/AITRICS/FREED) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Edge Representation Learning with Hypergraphs**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.15845.pdf) [\[code\]](https://github.com/harryjo97/EHGNN) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **GemNet: Universal Directional Graph Neural Networks for Molecules**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.08903.pdf) [\[code\]](https://www.daml.in.tum.de/gemnet) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **A 3D Generative Model for Structure-Based Drug Design**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2203.10446.pdf) [\[code\]](https://github.com/luost26/3D-Generative-SBDD) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **E(n) Equivariant Normalizing Flows**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2105.09016.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Learning Space Partitions for Path Planning**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.10544.pdf) [\[code\]](https://github.com/yangkevin2/neurips2021-lap3) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Autobahn: Automorphism-based Graph Neural Nets**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2103.01710.pdf) [\[code\]](https://github.com/risilab/Autobahn) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Language Models Enable Zero-shot Prediction of the Effects of Mutations on Protein Function**, *NeurIPS*, 2021. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf) [\[code\]](https://github.com/facebookresearch/esm) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Do Transformers Really Perform Bad for Graph Representation?**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.05234.pdf) [\[code\]](https://github.com/Microsoft/Graphormer) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Smooth Normalizing Flows**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2110.00351.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.04399.pdf) [\[code\]](https://github.com/GFNOrg/gflownet) 
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Weisfeiler and Lehman Go Cellular: CW Networks**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.12575.pdf)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+* **Multi-Scale Representation Learning on Proteins**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2204.02337.pdf)  
+
+* **Representation Learning on Spatial Networks**, *NeurIPS*, 2021. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/12e35d9186dd72fe62fd039385890b9c-Paper.pdf) [\[code\]](https://github.com/rollingstonezz/SGMP_code) 
+
+* **Predicting Molecular Conformation via Dynamic Graph Score Matching**, *NeurIPS*, 2021. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/a45a1d12ee0fb7f1f872ab91da18f899-Paper.pdf)  
+
+* **Property-Aware Relation Networks for Few-Shot Molecular Property Prediction**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2107.07994.pdf)  
+
+* **Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.07832.pdf)  
+
+* **Deep Molecular Representation Learning via Fusing Physical and Chemical Information**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2112.04624.pdf)  
+
+* **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2110.00987.pdf) [\[code\]](https://github.com/zaixizhang/MGSSL) 
+
+* **Rethinking Neural Operations for Diverse Tasks**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2103.15798.pdf) [\[code\]](https://github.com/nick11roberts/XD) 
+
+* **Directional Message Passing on Molecular Graphs via Synthetic Coordinates**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2111.04718.pdf) [\[code\]](https://www.cs.cit.tum.de/daml/startseite/) 
+
+* **SE(3)-Equivariant Prediction of Molecular Wavefunctions and Electronic Densities**, *NeurIPS*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02347.pdf)  
+
+* **Co-evolution Transformer for Protein Contact Prediction**, *NeurIPS*, 2021. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/770f8e448d07586afbf77bb59f698587-Paper.pdf) [\[code\]](https://github.com/microsoft/ProteinFolding/tree/main/coevolution_transformer) 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 

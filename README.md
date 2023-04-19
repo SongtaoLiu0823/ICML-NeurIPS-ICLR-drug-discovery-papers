@@ -69,14 +69,34 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Conditioning by Adaptive Sampling for Robust Design**, *ICML*, 2019. [\[pdf\]]() [\[code\]]()  
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Efficient Graph Generation with Graph Recurrent Attention Network**, *ICML*, 2019. [\[pdf\]](https://arxiv.org/pdf/1910.00760.pdf) [\[code\]](https://github.com/lrjconan/GRAN)  
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Learning to Optimize in Swarms**, *NeurIPS*, 2019. [\[pdf\]](https://openreview.net/pdf?id=rke8aHHlIH) [\[code\]](https://github.com/Shen-Lab/LOIS)  
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Generative Models for Graph-based Protein Design**, *NeurIPS*, 2019. [\[pdf\]](https://papers.nips.cc/paper_files/paper/2019/file/f3a4ff4839c56a5f460c88cce3666a2b-Paper.pdf) [\[code\]](https://github.com/jingraham/neurips19-graph-protein-design)  
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Discrete Object Generation with Reversible Inductive Construction**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1907.08268.pdf) [\[code\]](https://github.com/PrincetonLIPS/reversible-inductive-construction)  
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Graph Normalizing Flow**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1905.13177.pdf)   
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+* **Cormorant: Covariant Molecular Neural Networks**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1906.04015.pdf) [\[code\]](https://github.com/risilab/cormorant)  
+
+* **Integrating Markov Processes with Structural Causal Modeling Enables Counterfactual Inference in Complex Systems**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1911.02175.pdf) 
+
+* **N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1806.09206.pdf) [\[code\]](https://github.com/chao1224/n_gram_graph)
+
+* **Evaluating Protein Transfer Learning with TAPE**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1906.08230.pdf) [\[code\]](https://github.com/songlab-cal/tape)
+
+* **A Model to Search for Synthesizable Molecules**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1906.05221.pdf) [\[code\]](https://github.com/john-bradshaw/molecule-chef)
+
+* **Depth-First Proof-Number Search with Heuristic Edge Cost and Application to Chemical Synthesis Planning**, *NeurIPS*, 2019. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2019/file/4fc28b7093b135c21c7183ac07e928a6-Paper.pdf) 
+
+* **End-to-End Learning on 3D Protein Structure for Interface Prediction**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1807.01297.pdf) [\[code\]](https://github.com/drorlab/DIPS)  
+
+* **Retrosynthesis Prediction with Conditional Graph Logic Network**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/2001.01408.pdf) [\[code\]](https://github.com/Hanjun-Dai/GLN)  
+
+* **Symmetry-adapted Generation of 3d Point Sets for the Targeted Discovery of Molecules**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1906.00957.pdf) [\[code\]](https://github.com/atomistic-machine-learning/G-SchNet)  
+
+* **Hyperbolic Graph Neural Networks**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1910.12892.pdf) [\[code\]](https://github.com/facebookresearch/hgnn)  
+
+* **Deep imitation learning for molecular inverse problems**, *NeurIPS*, 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/b0bef4c9a6e50d43880191492d4fc827-Paper.pdf)  

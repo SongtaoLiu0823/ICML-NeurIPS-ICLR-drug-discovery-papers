@@ -173,7 +173,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.10503.pdf) [\[code\]](https://github.com/FabianFuchsML/se3-transformer-public)  
 
-* **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set**, **, 2020. [\[pdf\]](https://arxiv.org/pdf/2011.07929.pdf) [\[code\]](https://github.com/masashitsubaki/QuantumDeepField_molecule) 
+* **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2011.07929.pdf) [\[code\]](https://github.com/masashitsubaki/QuantumDeepField_molecule) 
 
 * **TorsionNet: A Reinforcement Learning Approach to Sequential Conformer Search**, *NeurIPS*, 2020. [\[pdf\]](https://proceedings.neurips.cc/paper/2020/file/e904831f48e729f9ad8355a894334700-Paper.pdf) [\[code\]](https://github.com/tarungog/torsionnet_paper_version) 
 
@@ -441,31 +441,31 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.00529.pdf) [\[code\]](https://github.com/ZhaoningYu1996/HM-GNN) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Periodic Graph Transformers for Crystal Material Property Prediction**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2209.11807.pdf) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Recipe for a General, Powerful, Scalable Graph Transformer**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.12454.pdf) [\[code\]](https://github.com/rampasek/GraphGPS) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Graph Self-supervised Learning with Accurate Discrepancy Learning**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.02989.pdf) [\[code\]](https://github.com/DongkiKim95/D-SLA) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Amortized Inference for Heterogeneous Reconstruction in Cryo-EM**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2210.07387.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Learning Substructure Invariance for Out-of-Distribution Molecular Representations**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=2nWUNTnFijm) [\[code\]](https://github.com/yangnianzu0515/MoleOOD) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Modular Flows: Differential Molecular Generation**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2210.06032.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Sparse Fourier Backpropagation in Cryo-EM Reconstruction**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=51f5sPXJD_E) [\[code\]](https://github.com/dkimanius/sbackprop) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Reinforced Genetic Algorithm for Structure-based Drug Design**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.16508.pdf) [\[code\]](https://github.com/futianfan/reinforced-genetic-algorithm) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Does GNN Pretraining Help Molecular Representation?**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2207.06010.pdf)  
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Task-Agnostic Graph Explanations**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.08335.pdf) [\[code\]](https://github.com/divelab/DIG/tree/main/dig/xgraph/TAGE/) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.07697.pdf) [\[code\]](https://github.com/ACEsuit/mace) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **Gold-standard Solutions to the Schrödinger Equation using Deep Learning: How Much Physics Do We Need?**, **, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.09438.pdf) [\[code\]](https://github.com/mdsunivie/deeperwin) 
 
-* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+* **GRASP: Navigating Retrosynthetic Planning with Goal-driven Policy**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=ofwkaIWFqqv)  
 
 * ****, **, 2022. [\[pdf\]]() [\[code\]]() 
 

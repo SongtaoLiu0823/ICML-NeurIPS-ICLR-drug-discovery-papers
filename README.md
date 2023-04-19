@@ -51,8 +51,32 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1805.09003.pdf)       
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()   
+* **Learning Protein Sequence Embeddings using Information from Structure**, *ICLR*, 2019. [\[pdf\]](https://arxiv.org/pdf/1902.08661.pdf) [\[code\]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)   
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()   
+* **Learning Multimodal Graph-to-Graph Translation for Molecular Optimization**, *ICLR*, 2019. [\[pdf\]](https://arxiv.org/pdf/1812.01070.pdf)    
 
-* ****, **, 2019. [\[pdf\]]() [\[code\]]()   
+* **A Generative Model For Electron Paths**, *ICLR*, 2019. [\[pdf\]](https://arxiv.org/pdf/1805.10970.pdf)   
+
+* **Human-level Protein Localization with Convolutional Neural Networks**, *ICLR*, 2019. [\[pdf\]](https://openreview.net/pdf?id=ryl5khRcKm) [\[code\]](https://github.com/ml-jku/gapnet-pl)  
+
+* **Learning Protein Structure with a Differentiable Simulator**, *ICLR*, 2019. [\[pdf\]](https://openreview.net/pdf?id=Byg3y3C9Km)   
+
+* **Molecular Hypergraph Grammar with Its Application to Molecular Optimization**, *ICML*, 2019. [\[pdf\]](http://proceedings.mlr.press/v97/kajino19a/kajino19a.pdf)   
+
+* **Functional Transparency for Structured Data: a Game-Theoretic Approach**, *ICML*, 2019. [\[pdf\]](https://arxiv.org/pdf/1902.09737.pdf)   
+
+* **DeepNose: Using Artificial Neural Networks to Represent the Space of Odorants**, *ICML*, 2019. [\[pdf\]](http://proceedings.mlr.press/v97/tran19b/tran19b.pdf)   
+
+* **Conditioning by Adaptive Sampling for Robust Design**, *ICML*, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  
+
+* ****, **, 2019. [\[pdf\]]() [\[code\]]()  

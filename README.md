@@ -379,6 +379,148 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Spanning Tree-based Graph Generation for Molecules**, *ICLR*, 2022. [\[pdf\]](https://openreview.net/pdf?id=w60btE_8T2m)  
 
+* **Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.03813.pdf) [\[code\]](https://github.com/lmotte/graph-prediction-with-fused-gromov-wasserstein) 
+
+* **Generative Coarse-Graining of Molecular Conformations**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2201.12176.pdf) [\[code\]](https://github.com/wwang2/CoarseGrainingVAE) 
+
+* **Efficient Higher-order Subgraph Attribution via Message Passing**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/xiong22a/xiong22a.pdf) [\[code\]](https://github.com/xiong-ping/sgnn_lrp_via_mp) 
+
+* **Unified Fourier-based Kernel and Nonlinearity Design for Equivariant Networks on Homogeneous Spaces**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.08362.pdf)  
+
+* **Retroformer: Pushing the Limits of End-to-end Retrosynthesis Transformer**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/wan22a/wan22a.pdf) [\[code\]](https://github.com/yuewan2/Retroformer) 
+
+* **VARSCENE: A Deep Generative Model for Realistic Scene Graph Synthesis**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/verma22b/verma22b.pdf) [\[code\]](https://github.com/google/sg2im) 
+
+* **Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.08450.pdf)  
+
+* **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.05146.pdf) [\[code\]](https://github.com/HannesStark/EquiBind) 
+
+* **3D Infomax improves GNNs for Molecular Property Prediction**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.04126.pdf) [\[code\]](https://github.com/HannesStark/3DInfomax) 
+
+* **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.12742.pdf) [\[code\]](https://github.com/samuelstanton/lambo) 
+
+* **Proximal Exploration for Model-guided Protein Sequence Design**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/ren22a/ren22a.pdf) [\[code\]](https://github.com/HeliXonProtein/proximal-exploration) 
+
+* **Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.07249.pdf) [\[code\]](https://github.com/pengxingang/Pocket2Mol) 
+
+* **Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.13760.pdf) [\[code\]](https://github.com/OATML-Markslab/Tranception) 
+
+* **Path-Aware and Structure-Preserving Generation of Synthetically Accessible Molecules**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/noh22a/noh22a.pdf)  
+
+* **SPECTRE: Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2204.01613.pdf) [\[code\]](https://github.com/KarolisMart/SPECTRE) 
+
+* **Generating 3D Molecules for Target Protein Binding**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2204.09410.pdf)  
+
+* **Let Invariant Rationale Discovery Inspire Graph Contrastive Learning**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.07869.pdf) [\[code\]](https://github.com/lsh0520/RGCL) 
+
+* **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.08575.pdf) [\[code\]](https://github.com/snu-mllab/DiscreteBlockBayesAttack) 
+
+* **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.02514.pdf) [\[code\]](https://github.com/harryjo97/GDSS) 
+
+* **Antibody-Antigen Docking and Design via Hierarchical Structure Refinement**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/jin22a/jin22a.pdf) [\[code\]](github.com/wengong-jin/abdockgen) 
+
+* **Biological Sequence Design with GFlowNets**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.04115.pdf) [\[code\]](https://github.com/MJ10/BioSeq-GFN-AL) 
+
+* **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.07309.pdf)  
+
+* **Learning Inverse Folding from Millions of Predicted Structures**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf)  
+
+* **Equivariant Diffusion for Molecule Generation in 3D**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2203.17003.pdf)  
+
+* **Deep Squared Euclidean Approximation to the Levenshtein Distance for DNA Storage**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2207.04684.pdf)  
+
+* **How to Fill the Optimum Set? Population Gradient Descent with Harmless Diversity**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/gong22b/gong22b.pdf)  
+
+* **Conformal Prediction Sets with Limited False Positives**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/fisch22a/fisch22a.pdf) [\[code\]](https://github.com/ajfisch/conformal-fp) 
+
+* **LIMO: Latent Inceptionism for Targeted Molecule Generation**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.09010.pdf) [\[code\]](https://github.com/Rose-STL-Lab/LIMO) 
+
+* **SE(3) Equivariant Graph Neural Networks with Complete Local Frames**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2110.14811.pdf) [\[code\]]() 
+
+* **One-Pass Diversified Sampling with Application to Terabyte-Scale Genomic Sequence Streams**, *ICML*, 2022. [\[pdf\]](https://proceedings.mlr.press/v162/coleman22a/coleman22a.pdf)  
+
+* **Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks**, *ICML*, 2022. [\[pdf\]](https://arxiv.org/pdf/2202.00529.pdf) [\[code\]](https://github.com/ZhaoningYu1996/HM-GNN) 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2022. [\[pdf\]]() [\[code\]]() 
+
 * ****, **, 2022. [\[pdf\]]() [\[code\]]() 
 
 * ****, **, 2022. [\[pdf\]]() [\[code\]]() 

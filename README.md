@@ -23,8 +23,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **SchNet: A Continuous-filter Convolutional Neural Network for Modeling Quantum Interactions**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1706.08566.pdf)    
 
-* **Inductive Representation Learning on Large Graphs**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1706.02216.pdf) [\[code\]](http://snap.stanford.edu/graphsage/)  
-
 * **Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/72b386224056bf940cd5b01341f65e9d-Paper.pdf)    
 
 * **Spherical Convolutions and Their Application in Molecular Modelling**, *NeurIPS*, 2017. [\[pdf\]](https://papers.nips.cc/paper_files/paper/2017/file/1113d7a76ffceca1bb350bfe145467c6-Paper.pdf) [\[code\]](https://github.com/deepfold/NIPS2017)  

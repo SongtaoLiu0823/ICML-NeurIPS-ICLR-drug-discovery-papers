@@ -14,7 +14,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Variational Inference for Sparse and Undirected Models**, *ICML*, 2017. [\[pdf\]](https://arxiv.org/pdf/1602.03807.pdf)  
 
-
 * **Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**, *ICML*, 2017. [\[pdf\]](https://arxiv.org/pdf/1611.02796.pdf) [\[code\]](https://github.com/magenta/magenta/tree/main/magenta/models/rl_tuner)   
 
 * **Grammar Variational Autoencoder**, *ICML*, 2017. [\[pdf\]](https://arxiv.org/pdf/1703.01925.pdf)  
@@ -27,9 +26,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Spherical Convolutions and Their Application in Molecular Modelling**, *NeurIPS*, 2017. [\[pdf\]](https://papers.nips.cc/paper_files/paper/2017/file/1113d7a76ffceca1bb350bfe145467c6-Paper.pdf) [\[code\]](https://github.com/deepfold/NIPS2017)  
 
-* **Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1709.04555.pdf) [\[code\]](https://github.com/wengong-jin/nips17-rexgen)    
-
-* **Efficient Approximation Algorithms for String Kernel Based Sequence Classification**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1712.04264.pdf) [\[code\]](https://github.com/mufarhan/sequence_class_NIPS_2017)    
+* **Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1709.04555.pdf) [\[code\]](https://github.com/wengong-jin/nips17-rexgen)       
 
 * **Protein Interface Prediction using Graph Convolutional Networks**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf) [\[code\]](https://github.com/fouticus/pipgcn)    
 

@@ -231,16 +231,74 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Accurate Learning of Graph Representations with Graph Multiset Pooling**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2102.11533.pdf) [\[code\]](https://github.com/JinheonBaek/GMT)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **A Structured Observation Distribution for Generative Biological Sequence Prediction and Forecasting**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/weinstein21a/weinstein21a.pdf)   
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2105.07246.pdf) [\[code\]](https://github.com/MinkaiXu/ConfVAE-ICML21)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **Self-supervised Graph-level Representation Learning with Local and Global Structure**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.04113.pdf) [\[code\]](https://github.com/DeepGraphLearning/GraphLoG)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.13058.pdf) [\[code\]](https://github.com/IBM/fold2seq)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **XOR-CD: Linearly Convergent Constrained Structure Generatio**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/ding21a/ding21a.pdf)   
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **Bayesian Quadrature on Riemannian Data Manifolds**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2102.06645.pdf) [\[code\]](https://github.com/froec/BQonRDM)  
 
-* ****, **, 2021. [\[pdf\]]() [\[code\]]()  
+* **Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2105.04854.pdf) [\[code\]](https://github.com/bayer-science-for-a-better-life/graph-attribution) 
+
+* **LieTransformer: Equivariant Self-Attention for Lie Groups**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2012.10885.pdf) [\[code\]](https://github.com/oxcsml/lie-transformer) 
+
+* **Self-Improved Retrosynthetic Planning**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.04880.pdf)  
+
+* **WILDS: A Benchmark of in-the-Wild Distribution Shifts**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2012.07421.pdf)  
+
+* **GraphDF: A Discrete Flow Model for Molecular Graph Generation**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2102.01189.pdf)  
+
+* **MSA Transformer**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/rao21a/rao21a.pdf) [\[code\]](https://github.com/facebookresearch/esm) 
+
+* **Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2106.07801.pdf)  
+
+* **E(n) Equivariant Graph Neural Networks**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2102.09844.pdf) [\[code\]](https://github.com/vgsatorras/egnn) 
+
+* **Equivariant Message Passing for the Prediction of Tensorial Properties and Molecular Spectra**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/schutt21a/schutt21a.pdf)  
+
+* **Learning Gradient Fields for Molecular Conformation Generation**, *ICML*, 2021. [\[pdf\]](https://arxiv.org/pdf/2105.03902.pdf) [\[code\]](https://github.com/DeepGraphLearning/ConfGF) 
+
+* **Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model**, *ICML*, 2021. [\[pdf\]](http://proceedings.mlr.press/v139/thygesen21a/thygesen21a.pdf)  
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 
+
+* ****, **, 2021. [\[pdf\]]() [\[code\]]() 

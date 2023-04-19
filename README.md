@@ -28,27 +28,14 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1709.04555.pdf) [\[code\]](https://github.com/wengong-jin/nips17-rexgen)       
 
-* **Protein Interface Prediction using Graph Convolutional Networks**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf) [\[code\]](https://github.com/fouticus/pipgcn)    
-
-* **Dynamic Importance Sampling for Anytime Bounds of the Partition Function**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper/2017/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)     
-
-* **Learning a Generative Model for Validity in Complex Discrete Structures**, *ICLR*, 2018. [\[pdf\]](https://arxiv.org/pdf/1712.01664.pdf) [\[code\]](https://github.com/DavidJanz/molecule_grammar_rnn)    
-
-* **Graph Attention Networks**, *ICLR*, 2018. [\[pdf\]](https://arxiv.org/pdf/1710.10903.pdf) [\[code\]](https://github.com/PetarV-/GAT)    
-
-* **Spherical CNNs**, *ICLR*, 2018. [\[pdf\]](https://arxiv.org/pdf/1801.10130.pdf) [\[code\]](https://github.com/jonkhler/s2cnn)    
+* **Protein Interface Prediction using Graph Convolutional Networks**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf) [\[code\]](https://github.com/fouticus/pipgcn)        
+* **Learning a Generative Model for Validity in Complex Discrete Structures**, *ICLR*, 2018. [\[pdf\]](https://arxiv.org/pdf/1712.01664.pdf) [\[code\]](https://github.com/DavidJanz/molecule_grammar_rnn)         
 
 * **Syntax-Directed Variational Autoencoder for Structured Data**, *ICLR*, 2018. [\[pdf\]](https://arxiv.org/pdf/1802.08786.pdf) [\[code\]](https://github.com/Hanjun-Dai/sdvae)    
 
-* **Junction Tree Variational Autoencoder for Molecular Graph Generation**, *ICML*, 2018. [\[pdf\]](https://arxiv.org/pdf/1802.04364.pdf) [\[code\]](https://github.com/wengong-jin/icml18-jtnn)    
+* **Junction Tree Variational Autoencoder for Molecular Graph Generation**, *ICML*, 2018. [\[pdf\]](https://arxiv.org/pdf/1802.04364.pdf) [\[code\]](https://github.com/wengong-jin/icml18-jtnn)        
 
-* **Hierarchical Multi-Label Classification Networks**, *ICML*, 2018. [\[pdf\]](https://proceedings.mlr.press/v80/wehrmann18a/wehrmann18a.pdf)     
-
-* **GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models**, *ICML*, 2018. [\[pdf\]](https://arxiv.org/pdf/1802.08773.pdf) [\[code\]](https://github.com/snap-stanford/GraphRNN)    
-
-* **3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1807.02547.pdf) [\[code\]](https://github.com/mariogeiger/se3cnn)    
-
-* **Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra**, *NeurIPS*, 2018. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2018/file/4ebccfb3e317c7789f04f7a558df4537-Paper.pdf)    
+* **GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models**, *ICML*, 2018. [\[pdf\]](https://arxiv.org/pdf/1802.08773.pdf) [\[code\]](https://github.com/snap-stanford/GraphRNN)        
 
 * **Generative Modeling for Protein Structures**, *NeurIPS*, 2018. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2018/file/afa299a4d1d8c52e75dd8a24c3ce534f-Paper.pdf)    
 
@@ -62,11 +49,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1809.02630.pdf)    
 
-* **End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1805.09003.pdf)    
-
-* **Hierarchical Graph Representation Learning with Differentiable Pooling**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1806.08804.pdf) [\[code\]]()   
-
-* **Embedding Logical Queries on Knowledge Graphs**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1806.01445.pdf) [\[code\]](https://github.com/williamleif/graphqembed)   
+* **End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems**, *NeurIPS*, 2018. [\[pdf\]](https://arxiv.org/pdf/1805.09003.pdf)       
 
 * ****, **, 2019. [\[pdf\]]() [\[code\]]()   
 

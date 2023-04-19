@@ -499,7 +499,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Symmetry-induced Disentanglement on Graphs**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=4tM0P_4N8D9)  
 
-* **So3krates: Equivariant Attention for Interactions on Arbitrary Length-scales in Molecular Systems**, **, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.14276.pdf) [\[code\]](https://github.com/thorben-frank/mlff) 
+* **So3krates: Equivariant Attention for Interactions on Arbitrary Length-scales in Molecular Systems**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.14276.pdf) [\[code\]](https://github.com/thorben-frank/mlff) 
 
 * **Multi-objective Deep Data Generation with Correlated Property Control**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2210.01796.pdf) [\[code\]](https://github.com/shi-yu-wang/CorrVAE) 
 

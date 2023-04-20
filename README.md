@@ -463,7 +463,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.07697.pdf) [\[code\]](https://github.com/ACEsuit/mace) 
 
-* **Gold-standard Solutions to the Schrödinger Equation using Deep Learning: How Much Physics Do We Need?**, **, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.09438.pdf) [\[code\]](https://github.com/mdsunivie/deeperwin) 
+* **Gold-standard Solutions to the Schrödinger Equation using Deep Learning: How Much Physics Do We Need?**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2205.09438.pdf) [\[code\]](https://github.com/mdsunivie/deeperwin) 
 
 * **GRASP: Navigating Retrosynthetic Planning with Goal-driven Policy**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=ofwkaIWFqqv)  
 
@@ -487,7 +487,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **On the Symmetries of the Synchronization Problem in Cryo-EM: Multi-Frequency Vector Diffusion Maps on the Projective Plane**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=owDcdLGgEm)  
 
-* **Equivariant Networks for Crystal Structures**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.15420.pdf) [\[code\]]() 
+* **Equivariant Networks for Crystal Structures**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2211.15420.pdf)  
 
 * **Exploring Evolution-aware & -free Protein Language Models as Protein Function Predictors**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2206.06583.pdf) [\[code\]](https://github.com/elttaes/Revisiting-PLMs) 
 

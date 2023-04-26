@@ -1,4 +1,4 @@
-# Molecular and protein papers
+# Drug discovery papers
 
 This repository contains a list of papers on molecular and protein, we categorize them based on their tasks and model types.
 

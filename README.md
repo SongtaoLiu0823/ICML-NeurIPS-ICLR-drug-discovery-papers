@@ -99,7 +99,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Hyperbolic Graph Neural Networks**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1910.12892.pdf) [\[code\]](https://github.com/facebookresearch/hgnn)  
 
-* **Deep imitation learning for molecular inverse problems**, *NeurIPS*, 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/b0bef4c9a6e50d43880191492d4fc827-Paper.pdf)  
+* **Deep Imitation Learning for Molecular Inverse Problems**, *NeurIPS*, 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/b0bef4c9a6e50d43880191492d4fc827-Paper.pdf)  
 
 * **From Variational to Deterministic Autoencoders**, *ICLR*, 2020. [\[pdf\]](https://arxiv.org/pdf/1903.12436.pdf) [\[code\]](https://github.com/ParthaEth/Regularized_autoencoders-RAE-)  
 
@@ -469,7 +469,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Regularized Molecular Conformation Fields**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=7XCFxnG8nGS) [\[code\]](https://github.com/leowang1217/RMCF) 
 
-* **Cross-Linked Unified Embedding for cross-modality representation learning**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=Tfb73TeKnJ-) [\[code\]](https://github.com/gao-lab/GLUE) 
+* **Cross-Linked Unified Embedding for Cross-modality Representation Learning**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=Tfb73TeKnJ-) [\[code\]](https://github.com/gao-lab/GLUE) 
 
 * **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures**, *NeurIPS*, 2022. [\[pdf\]](https://openreview.net/pdf?id=jSorGn2Tjg) [\[code\]](https://github.com/luost26/diffab) 
 

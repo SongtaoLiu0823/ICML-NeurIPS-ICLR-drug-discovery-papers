@@ -1,6 +1,6 @@
 # Drug discovery papers
 
-This repository contains a list of papers on molecular and protein, we categorize them based on their tasks and model types.
+This repository contains a list of papers on drug discovery.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 

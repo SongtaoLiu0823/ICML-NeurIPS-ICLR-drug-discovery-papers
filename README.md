@@ -18,8 +18,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Grammar Variational Autoencoder**, *ICML*, 2017. [\[pdf\]](https://arxiv.org/pdf/1703.01925.pdf)  
 
-* **Deriving Neural Architectures from Sequence and Graph Kernels**, *ICML*, 2017. [\[pdf\]](https://arxiv.org/pdf/1705.09037.pdf) [\[code\]](https://github.com/taolei87/icml17_knn)  
-
 * **SchNet: A Continuous-filter Convolutional Neural Network for Modeling Quantum Interactions**, *NeurIPS*, 2017. [\[pdf\]](https://arxiv.org/pdf/1706.08566.pdf)    
 
 * **Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities**, *NeurIPS*, 2017. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/72b386224056bf940cd5b01341f65e9d-Paper.pdf)    
@@ -65,11 +63,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Functional Transparency for Structured Data: a Game-Theoretic Approach**, *ICML*, 2019. [\[pdf\]](https://arxiv.org/pdf/1902.09737.pdf)   
 
-* **DeepNose: Using Artificial Neural Networks to Represent the Space of Odorants**, *ICML*, 2019. [\[pdf\]](http://proceedings.mlr.press/v97/tran19b/tran19b.pdf)   
-
-* **Conditioning by Adaptive Sampling for Robust Design**, *ICML*, 2019. [\[pdf\]]() [\[code\]]()  
-
-* **Efficient Graph Generation with Graph Recurrent Attention Network**, *ICML*, 2019. [\[pdf\]](https://arxiv.org/pdf/1910.00760.pdf) [\[code\]](https://github.com/lrjconan/GRAN)  
+* **DeepNose: Using Artificial Neural Networks to Represent the Space of Odorants**, *ICML*, 2019. [\[pdf\]](http://proceedings.mlr.press/v97/tran19b/tran19b.pdf)     
 
 * **Learning to Optimize in Swarms**, *NeurIPS*, 2019. [\[pdf\]](https://openreview.net/pdf?id=rke8aHHlIH) [\[code\]](https://github.com/Shen-Lab/LOIS)  
 
@@ -80,8 +74,6 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Graph Normalizing Flow**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1905.13177.pdf)   
 
 * **Cormorant: Covariant Molecular Neural Networks**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1906.04015.pdf) [\[code\]](https://github.com/risilab/cormorant)  
-
-* **Integrating Markov Processes with Structural Causal Modeling Enables Counterfactual Inference in Complex Systems**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1911.02175.pdf) 
 
 * **N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules**, *NeurIPS*, 2019. [\[pdf\]](https://arxiv.org/pdf/1806.09206.pdf) [\[code\]](https://github.com/chao1224/n_gram_graph)
 
@@ -112,9 +104,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Model-based Reinforcement Learning for Biological Sequence Design**, *ICLR*, 2020. [\[pdf\]](https://openreview.net/pdf?id=HklxbgBKvr)   
 
 * **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization**, *ICLR*, 2020. [\[pdf\]](https://arxiv.org/pdf/1908.01000.pdf)   
-
-* **Strategies for Pre-training Graph Neural Networks**, *ICLR*, 2020. [\[pdf\]](https://arxiv.org/pdf/1905.12265.pdf)   
-
+ 
 * **Directional Message Passing for Molecular Graphs**, *ICLR*, 2020. [\[pdf\]](https://arxiv.org/pdf/2003.03123.pdf)   
 
 * **Energy-based Models for Atomic-resolution Protein Conformations**, *ICLR*, 2020. [\[pdf\]]() [\[code\]](https://github.com/facebookresearch/protein-ebm)  
@@ -125,8 +115,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Retro-star: Learning Retrosynthetic Planning with Neural Guided A-star Search**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.15820.pdf) [\[code\]](https://github.com/binghong-ml/retro_star)  
 
-* **Scalable Deep Generative Modeling for Sparse Graphs**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.15502.pdf) [\[code\]](https://github.com/google-research/google-research/tree/master/bigg)  
-
 * **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.12880.pdf) [\[code\]](https://github.com/mfinzi/LieConv)  
 
 * **Population-Based Black-Box Optimization for Biological Sequence Design**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.03227.pdf)   
@@ -136,9 +124,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Hierarchical Generation of Molecular Graphs using Structural Motifs**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.03230.pdf)   
 
 * **Multi-Objective Molecule Generation using Interpretable Substructures**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.03244.pdf) [\[code\]](https://github.com/wengong-jin/multiobj-rationale)  
-
-* **Online Dense Subgraph Discovery via Blurred-Graph Feedback**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.13642.pdf)   
-
+  
 * **A Chance-Constrained Generative Framework for Sequence Optimization**, *ICML*, 2020. [\[pdf\]](http://proceedings.mlr.press/v119/liu20i/liu20i.pdf)   
 
 * **Projective Preferential Bayesian Optimization**, *ICMLR*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.03113.pdf) [\[code\]](https://github.com/AaltoPML/PPBO)  
@@ -151,13 +137,9 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Improving Molecular Design by Stochastic Iterative Target Augmentation**, *ICML*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.04720.pdf) [\[code\]](https://github.com/yangkevin2/icml2020-stochastic-iterative-target-augmentation)  
 
-* **A Graph Similarity for Deep Learning**, *NeurIPS*, 2020. [\[pdf\]](https://papers.nips.cc/paper/2020/file/0004d0b59e19461ff126e3a08a814c33-Paper.pdf) [\[code\]](https://github.com/se-ok/WLsimilarity)  
-
 * **Guiding Deep Molecular Optimization with Genetic Exploration**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2007.04897.pdf) [\[code\]](https://github.com/sungsoo-ahn/genetic-expert-guided-learning)  
 
-* **Self-Supervised Graph Transformer on Large-Scale Molecular Data**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2007.02835.pdf)   
-
-* **Building Powerful and Equivariant Graph Neural Networks with Structural Message-passing**, *NeurIPS*, 2020. [\[pdf\]]() [\[code\]]()  
+* **Self-Supervised Graph Transformer on Large-Scale Molecular Data**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2007.02835.pdf)     
 
 * **Efficient Generation of Structured Objects with Constrained Adversarial Networks**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2007.13197.pdf) [\[code\]](https://github.com/unitn-sml/CAN)  
 
@@ -167,17 +149,13 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Inverse Learning of Symmetries**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2002.02782.pdf) [\[code\]](https://github.com/bmda-unibas/InverseLearningOfSymmetries) 
 
-* **Provable Overlapping Community Detection in Weighted Graphs**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2004.07150.pdf)  
-
 * **BayReL: Bayesian Relational Learning for Multi-omics Data Integration**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2010.05895.pdf)  
 
 * **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2006.10503.pdf) [\[code\]](https://github.com/FabianFuchsML/se3-transformer-public)  
 
 * **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2011.07929.pdf) [\[code\]](https://github.com/masashitsubaki/QuantumDeepField_molecule) 
 
-* **TorsionNet: A Reinforcement Learning Approach to Sequential Conformer Search**, *NeurIPS*, 2020. [\[pdf\]](https://proceedings.neurips.cc/paper/2020/file/e904831f48e729f9ad8355a894334700-Paper.pdf) [\[code\]](https://github.com/tarungog/torsionnet_paper_version) 
-
-* **Weisfeiler and Leman Go Sparse: Towards Scalable Higher-order Graph Embeddings**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/1904.01543.pdf) [\[code\]](https://github.com/chrsmrrs/sparsewl)  
+* **TorsionNet: A Reinforcement Learning Approach to Sequential Conformer Search**, *NeurIPS*, 2020. [\[pdf\]](https://proceedings.neurips.cc/paper/2020/file/e904831f48e729f9ad8355a894334700-Paper.pdf) [\[code\]](https://github.com/tarungog/torsionnet_paper_version)  
 
 * **Goal-directed Generation of Discrete Structures with Conditional Generative Models**, *NeurIPS*, 2020. [\[pdf\]](https://arxiv.org/pdf/2010.02311.pdf)  
 
@@ -203,20 +181,12 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Categorical Normalizing Flows via Continuous Transformations**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2006.09790.pdf) [\[code\]](https://github.com/phlippe/CategoricalNF)  
 
-* **Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2102.07970.pdf)   
-
-* **A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2006.12065.pdf) [\[code\]](https://github.com/claying/OTK)  
-
 * **Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2007.06252.pdf) [\[code\]](https://github.com/phermosilla/IEConv_proteins)  
 
 * **HamNet: Conformation-Guided Molecular Representation with Hamiltonian Neural Networks**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2105.03688.pdf)   
 
-* **Lossless Compression of Structured Convolutional Models via Lifting**, *ICLR*, 2021. [\[pdf\]](https://arxiv.org/pdf/2007.06567.pdf)   
-
 * **Property Controllable Variational Autoencoder via Invertible Mutual Dependence**, *ICLR*, 2021. [\[pdf\]](https://openreview.net/pdf?id=tYxG_OMs9WE) [\[code\]](https://github.com/xguo7/PCVAE)  
-
-* **Graph Information Bottleneck for Subgraph Recognition**, *ICLR*, 2021. [\[pdf\]](https://openreview.net/pdf?id=bM4Iqfg8M2k) [\[code\]]()  
-
+ 
 * **Transformer Protein Language Models Are Unsupervised Structure Learners**, *ICLR*, 2021. [\[pdf\]](https://openreview.net/pdf?id=fylclEqgvgd) [\[code\]](https://github.com/facebookresearch/esm)  
 
 * **Symmetry-Aware Actor-Critic for 3D Molecular Design**, *ICLR*, 2021. [\[pdf\]](https://openreview.net/pdf?id=jEYKjPE1xYN)   

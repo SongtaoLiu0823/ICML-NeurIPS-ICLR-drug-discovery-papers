@@ -519,6 +519,114 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.07508.pdf) [\[code\]](https://github.com/pengxingang/MolDiff) 
 
+* **Protein Sequence and Structure Co-Design with Equivariant Translation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.08761.pdf) [\[code\]](https://github.com/sokrypton/ColabDesign)
+
+* **D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.00399.pdf) [\[code\]](https://github.com/sail-sg/d4ft)
+
+* **Anisotropic Message Passing: Graph Neural Networks with Directional and Long-Range Interactions**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=socffUzSIlx) 
+
+* **Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.13154.pdf) [\[code\]](https://github.com/RL4M/KeAP)
+
+* **Learning Harmonic Molecular Representations on Riemannian Manifold**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.15520.pdf) [\[code\]](https://github.com/GeomMolDesign/HMR)
+
+* **Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.05148.pdf) [\[code\]](https://github.com/molden/ProbKT)
+
+* **PiFold: Toward Effective and Efficient Protein Inverse Folding**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2209.12643.pdf) [\[code\]](https://github.com/A4Bio/PiFold)
+
+* **A Self-Attention Ansatz for Ab-initio Quantum Chemistry**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=xveTeHVlF7j) [\[code\]](https://github.com/google-deepmind/ferminet)
+
+* **Diffusion Probabilistic Modeling of Protein Backbones in 3D for the Motif-scaffolding Problem**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.04119.pdf) [\[code\]](https://github.com/blt2114/ProtDiff_SMCDiff)
+
+* **DiGress: Discrete Denoising Diffusion for Graph Generation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2209.14734.pdf) [\[code\]](https://github.com/cvignac/DiGress)
+
+* **Matching Receptor to Odorant with Protein Language and Graph Neural Networks**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=q9VherQJd8_) [\[code\]](https://github.com/MatejHl/Receptor2Odorant)
+
+* **Flow Annealed Importance Sampling Bootstrap**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2208.01893.pdf) [\[code\]](https://github.com/lollcat/fab-torch)
+
+* **Sampling-free Inference for Ab-Initio Potential Energy Surface Networks**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2205.14962.pdf) [\[code\]](https://github.com/n-gao/pesnet)
+
+* **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.06069.pdf) 
+
+* **Retrieval-based Controllable Molecule Generation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2208.11126.pdf) [\[code\]](https://github.com/NVlabs/RetMol)
+
+* **How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2112.12542.pdf) [\[code\]](https://github.com/yutxie/chem-measure)
+
+* **Markup-to-Image Diffusion Models with Scheduled Sampling**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=81VJDmOE2ol) [\[code\]](https://github.com/da03/markup2im)
+
+* **Protein Representation Learning by Geometric Structure Pretraining**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2203.06125.pdf) [\[code\]](https://github.com/DeepGraphLearning/GearNet)
+
+* **Agent-based Graph Neural Networks**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.11010.pdf) [\[code\]](https://github.com/KarolisMart/AgentNet)
+
+* **GFlowNets and Variational Inference**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.00580.pdf) [\[code\]](https://github.com/GFNOrg/GFN_vs_HVI)
+
+* **Generative Augmented Flow Networks**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=urF_CBK5XC0) [\[code\]](https://github.com/ling-pan/GAFN)
+
+* **Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=_X9Yl1K2mD) [\[code\]](https://github.com/luost26/RDE-PPI)
+
+* **Interpretable Geometric Deep Learning via Learnable Randomness Injection**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.16966.pdf) [\[code\]](https://github.com/Graph-COM/LRI)
+
+* **Unveiling the Sampling Density in Non-Uniform Geometric Graphs**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=mnVf1W6ipGm) 
+
+* **Relational Attention: Generalizing Transformers for Graph-Structured Tasks**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.05062.pdf) [\[code\]](https://github.com/CameronDiao/relational-transformer)
+
+* **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.03543.pdf) [\[code\]](https://github.com/guanjq/targetdiff)
+
+* **De Novo Molecular Generation via Connection-aware Motif Mining**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.01129.pdf) [\[code\]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
+
+* **Uni-Mol: A Universal 3D Molecular Representation Learning Framework**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=6K2RM6wVqKu) [\[code\]](https://github.com/dptech-corp/Uni-Mol)
+
+* **Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=jevY-DtiZTR) [\[code\]](https://github.com/junxia97/Mole-BERT)
+
+* **Multi-level Protein Structure Pre-training via Prompt Learning**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=XGagtiJ8XC) [\[code\]](https://github.com/HICAI-ZJU/PromptProtein)
+
+* **Context-enriched Molecule Representations Improve Few-shot Drug Discovery**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.09481.pdf) [\[code\]](https://github.com/ml-jku/MHNfs)
+
+* **Equivariant Energy-Guided SDE for Inverse Molecular Design**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2209.15408.pdf) [\[code\]](https://github.com/gracezhao1997/EEGSDE)
+
+* **Pre-training via Denoising for Molecular Property Prediction**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=tYIMtogyee) [\[code\]](https://github.com/shehzaidi/pre-training-via-denoising)
+
+* **Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.02141.pdf) [\[code\]](https://github.com/VITA-Group/SMC-Bench)
+
+* **$\mathcal{O}$-GNN: Incorporating Ring Priors into Molecular Modeling**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=5cFfz6yMVPU) [\[code\]](https://github.com/O-GNN/O-GNN)
+
+* **Multiple Sequence Alignment as a Sequence-to-sequence Learning Problem**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=8efJYMBrNb) 
+
+* **One Transformer Can Understand Both 2D & 3D Molecular Data**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.01765.pdf) [\[code\]](https://github.com/lsj2408/Transformer-M)
+
+* **A Graph Neural Network Approach to Automated Model Building in Cryo-EM Maps**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.00006.pdf) [\[code\]](https://github.com/3dem/model-angelo)
+
+* **Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=P5Z-Zl9XJ7) [\[code\]](https://github.com/hehefan/Continuous-Discrete-Convolution)
+
+* **Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.13602.pdf) [\[code\]](https://github.com/chao1224/GeoSSL)
+
+* **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.11990.pdf) [\[code\]](https://github.com/atomicarchitects/equiformer)
+
+* **Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Predictio**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2205.02708.pdf) [\[code\]](https://github.com/Wenlin-Chen/ADKF-IFT)
+
+* **Graph Domain Adaptation via Theory-Grounded Spectral Regularization**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=OysfLgrk8mk) [\[code\]](https://github.com/Shen-Lab/GDA-SpecReg)
+
+* **Become a Proficient Player with Limited Data through Watching Pure Videos**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=Sy-o2N0hF4f) [\[code\]](https://github.com/YeWR/FICC)
+
+* **Molecule Generation For Target Protein Binding with Structural Motifs**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=Rq13idF0F73) [\[code\]](https://github.com/zaixizhang/FLAG)
+
+* **On Pre-trained Language Models for Antibody**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.12112.pdf) [\[code\]](https://github.com/dqwang122/EATLM)
+
+* **A Differential Geometric View and Explainability of GNN on Evolving Graphs**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=lRdhvzMpVYV) 
+
+* **Unsupervised Manifold Alignment with Joint Multidimensional Scaling**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2207.02968.pdf) [\[code\]](https://github.com/BorgwardtLab/JointMDS)
+
+* **Boosting the Cycle Counting Power of Graph Neural Networks with I2-GNNs**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.13978.pdf) [\[code\]](https://github.com/GraphPKU/I2GNN)
+
+* **Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=4MbGnp4iPQ) [\[code\]](https://github.com/keiradams/SQUID)
+
+* **Sign and Basis Invariant Networks for Spectral Graph Representation Learning**, *ICLR*, 2023. [\[pdf\]](https://openreview.net/pdf?id=Q-UHqMorzil) [\[code\]](https://github.com/cptq/SignNet-BasisNet)
+
+* **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2207.12600.pdf) [\[code\]](https://github.com/divelab/DIG)
+
+* **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.01776.pdf) [\[code\]](https://github.com/gcorso/DiffDock)
+
+* **Conditional Antibody Design as 3D Equivariant Graph Translation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2208.06073.pdf) [\[code\]](https://github.com/THUNLP-MT/MEAN)
+
 * **Graph Inductive Biases in Transformers without Message Passing**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.17589.pdf) [\[code\]](https://github.com/LiamMa/GRIT)
 
 * **Retrosynthetic Planning with Dual Value Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.13755.pdf) 

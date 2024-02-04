@@ -517,4 +517,137 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Zero-Shot 3D Drug Design by Sketching and Generating**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2209.13865.pdf) [\[code\]](https://github.com/longlongman/DESERT) 
 
+* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.07508.pdf) [\[code\]](https://github.com/pengxingang/MolDiff) 
+
+* **Graph Inductive Biases in Transformers without Message Passing**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.17589.pdf) [\[code\]](https://github.com/LiamMa/GRIT)
+
+* **Retrosynthetic Planning with Dual Value Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.13755.pdf) 
+
+* **FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2209.15315.pdf) [\[code\]](https://github.com/SongtaoLiu0823/FusionRetro)
+
+* **A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.18407.pdf) [\[code\]](https://github.com/chao1224/MoleculeSDE)
+
+* **Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.10045.pdf) [\[code\]](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet) 
+
+* **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.12485.pdf) [\[code\]](https://github.com/aqlaboratory/genie)
+
+* **Exploring Chemical Space with Score-based Out-of-distribution Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.07632.pdf) [\[code\]](https://github.com/SeulLee05/MOOD)
+
+* **Conditional Graph Information Bottleneck for Molecular Relational Learning**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.01520.pdf) [\[code\]](https://github.com/Namkyeong/CGIB)
+
+* **Ewald-based Long-Range Message Passing for Molecular Graphs**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.04791.pdf) [\[code\]](https://github.com/arthurkosmala/EwaldMP)
+
+* **End-to-End Full-Atom Antibody Design**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.00203.pdf) [\[code\]](https://github.com/THUNLP-MT/dyMEAN) 
+
+* **Autoregressive Diffusion Model for Graph Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2307.08849.pdf) [\[code\]](https://github.com/caio-freitas/GraphARM)
+
+* **Rigid Body Flows for Sampling Molecular Crystal Structures**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.11355.pdf) [\[code\]](https://github.com/noegroup/rigid-flows)
+
+* **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2307.15073.pdf) [\[code\]](https://github.com/leojklarner/Q-SAVI)
+
+* **SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/kim23s/kim23s.pdf) [\[code\]](https://github.com/JunetaeKim/SurProGenes)
+
+* **Biases in Evaluation of Molecular Optimization Methods and Bias Reduction Strategies**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/kajino23a/kajino23a.pdf) [\[code\]](https://github.com/kanojikajino/biases-in-mol-opt) 
+
+* **On the Expressive Power of Geometric Graph Neural Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.09308.pdf) [\[code\]](https://github.com/chaitjo/geometric-gnn-dojo)
+
+* **Multi-Objective GFlowNets**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.12765.pdf) [\[code\]](https://github.com/GFNOrg/multi-objective-gfn)
+
+* **Hierarchical Grammar-Induced Geometry for Data-Efficient Molecular Property Prediction**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/guo23h/guo23h.pdf) [\[code\]](https://github.com/gmh14/Geo-DEG)
+
+* **DECOMPDIFF: Diffusion Models with Decomposed Priors for Structure-Based Drug Design**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/guan23a/guan23a.pdf) [\[code\]](https://github.com/bytedance/DecompDiff)
+
+* **Generalizing Neural Wave Functions**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.04168.pdf) [\[code\]](https://github.com/n-gao/globe) 
+
+* **Fractional Denoising for 3D Molecular Pre-training**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2307.10683.pdf) [\[code\]](https://github.com/fengshikun/Frad)
+
+* **Scaling Spherical CNNs**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.05420.pdf) [\[code\]](https://github.com/google-research/spherical-cnn)
+
+* **E(n) Equivariant Message Passing Simplicial Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.07100.pdf) 
+
+* **FAENet: Frame Averaging Equivariant GNN for Materials Modeling**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.05577.pdf) [\[code\]](https://faenet.readthedocs.io/en/latest/)
+
+* **A Kernelized Stein Discrepancy for Biological Sequences**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/amin23a/amin23a.pdf)  
+
+* **Improving Graph Generation by Restricting Graph Bandwidth**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.10857.pdf) [\[code\]](https://github.com/Genentech/bandwidth-graph-generation)
+
+* **The Persistent Laplacian for Data Science: Evaluating Higher-Order Persistent Spectral Representations of Data**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/davies23c/davies23c.pdf) [\[code\]](https://github.com/tomogwen/persistentlaplaciandatascience)
+
+* **Unifying Molecular and Textual Representations via Multi-task Language Modelling**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.12586.pdf) [\[code\]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
+
+* **Bidirectional Learning for Offline Model-based Biological Sequence Design**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.02931.pdf) [\[code\]](https://github.com/GGchen1997/BIB-ICML2023-Submission)
+
+* **A Gromov–Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.08854.pdf) [\[code\]](https://github.com/ychen-stat-ml/GW-Graph-Coarsening) 
+
+* **Structure-informed Language Models Are Protein Designers**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.01649.pdf) [\[code\]](https://github.com/BytedProtein/ByProt)
+
+* **Learning Subpocket Prototypes for Generalizable Structure-based Drug Design**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.13997.pdf) [\[code\]](https://github.com/zaixizhang/FLAG)
+
+* **When Sparsity Meets Contrastive Models: Less Graph Data Can Bring Better Class-Balanced Representations**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/zhang23o/zhang23o.pdf) 
+
+* **Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.04922.pdf) [\[code\]](https://github.com/divelab/AIRS)
+
+* **Graph Generative Model for Benchmarking Graph Neural Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2207.04396.pdf) [\[code\]](https://github.com/minjiyoon/CGT) 
+
+* **CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.04979.pdf) 
+
+* **SE(3) diffusion model with application to protein backbone generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.02277.pdf) [\[code\]](https://github.com/jasonkyuyim/se3_diffusion)
+
+* **Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.01569.pdf) [\[code\]](https://github.com/learningmatter-mit/GenZProt)
+
+* **Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.06102.pdf) [\[code\]](https://github.com/qslim/PDF)
+
+* **Quantum 3D Graph Learning with Applications to Molecule Embedding**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/yan23e/yan23e.pdf)  
+
+* **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.12040.pdf) [\[code\]](https://github.com/DeepGraphLearning/ProtST)
+
+* **Geometric Latent Diffusion Models for 3D Molecule Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.01140.pdf) [\[code\]](https://github.com/MinkaiXu/GeoLDM)
+
+* **Relevant Walk Search for Explaining Graph Neural Networks**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/xiong23b/xiong23b.pdf) [\[code\]](https://github.com/xiong-ping/rel_walk_gnnlrp)
+
+* **QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/wu23v/wu23v.pdf) 
+
+* **Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.02780.pdf) [\[code\]](https://github.com/smiles724/MatchExplainer) 
+
+* **Uncertainty Estimation for Molecules: Desiderata and Methods**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.14916.pdf) [\[code\]](https://github.com/wollschl/uncertainty_for_molecules)
+
+* **Boosting Graph Contrastive Learning via Graph Contrastive Saliency**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/wei23c/wei23c.pdf) [\[code\]](https://github.com/GCS2023/GCS)
+
+* **Constrained Causal Bayesian Optimization**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.20011.pdf) [\[code\]](https://github.com/google-deepmind/ccbo)
+
+* **AbODE: Ab Initio Antibody Design using Conjoined ODEs**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.01005.pdf) [\[code\]](https://github.com/yogeshverma1998/AbODE_)
+
+* **Von Mises Mixture Distributions for Molecular Conformation Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.07472.pdf) [\[code\]](https://github.com/thejonaslab/vonmises-icml-2023) 
+
+* **Importance Weighted Expectation-Maximization for Protein Sequence Design**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.00386.pdf) 
+
+* **Differentiable Simulations for Enhanced Sampling of Rare Events**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.03480.pdf) [\[code\]](https://github.com/martinsipka/rarediffsim)
+
+* **Machine Learning Force Fields with Data Cost Aware Training**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/bukharin23a/bukharin23a.pdf) [\[code\]](https://github.com/abukharin3/asteroid)
+
+* **Cross-Modal Fine-Tuning: Align then Refine**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.05738.pdf) [\[code\]](https://github.com/sjunhongshen/ORCA)
+
+* **Neural Markov Jump Processes**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.19744.pdf) [\[code\]](https://github.com/pseifner/NeuralMJP) 
+
+* **Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.03363.pdf) [\[code\]](https://github.com/ml-jku/clamp)
+
+* **Geometric Clifford Algebra Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.06594.pdf) [\[code\]](https://github.com/microsoft/cliffordlayers)
+
+* **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.13266.pdf) [\[code\]](https://github.com/qiangbo1222/HierDiff)
+
+* **JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction Under Standard and Feedback Covariate Shif**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/prinster23a/prinster23a.pdf) [\[code\]](https://github.com/drewprinster/jaws-x)
+
+* **Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.03655.pdf) [\[code\]](https://github.com/lucidrains/equiformer-pytorch) 
+
+* **Better Training of GFlowNets with Local Credit and Incomplete Trajectories**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2302.01687.pdf) [\[code\]](https://github.com/ling-pan/FL-GFN)
+
+* **Extrapolative Controlled Sequence Generation via Iterative Refinement**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.04562.pdf) [\[code\]](https://github.com/vishakhpk/iter-extrapolation)
+
+* **Efficiently Predicting High Resolution Mass Spectra with Graph Neural Networks**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/murphy23a/murphy23a.pdf) [\[code\]](https://github.com/murphy17/graff-ms)
+
+* **STRIDERNET: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes**, *ICML*, 2023. [\[pdf\]](https://proceedings.mlr.press/v202/bihani23a/bihani23a.pdf) [\[code\]](https://github.com/M3RG-IITD/StriderNET)
+
+* **Path Neural Networks: Expressive and Accurate Graph Neural Networks**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.05955.pdf) [\[code\]](https://github.com/gasmichel/PathNNs_expressive) 
+
+* **Reprogramming Pretrained Language Models for Antibody Sequence Infilling**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.07144.pdf) [\[code\]](https://github.com/IBM/ReprogBERT)
 

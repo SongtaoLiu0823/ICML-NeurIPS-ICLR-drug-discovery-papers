@@ -517,8 +517,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Zero-Shot 3D Drug Design by Sketching and Generating**, *NeurIPS*, 2022. [\[pdf\]](https://arxiv.org/pdf/2209.13865.pdf) [\[code\]](https://github.com/longlongman/DESERT) 
 
-* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.07508.pdf) [\[code\]](https://github.com/pengxingang/MolDiff) 
-
 * **Protein Sequence and Structure Co-Design with Equivariant Translation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.08761.pdf) [\[code\]](https://github.com/sokrypton/ColabDesign)
 
 * **D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2303.00399.pdf) [\[code\]](https://github.com/sail-sg/d4ft)
@@ -626,6 +624,8 @@ We will try to make this list updated. If you found any error or any missed pape
 * **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.01776.pdf) [\[code\]](https://github.com/gcorso/DiffDock)
 
 * **Conditional Antibody Design as 3D Equivariant Graph Translation**, *ICLR*, 2023. [\[pdf\]](https://arxiv.org/pdf/2208.06073.pdf) [\[code\]](https://github.com/THUNLP-MT/MEAN)
+
+* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.07508.pdf) [\[code\]](https://github.com/pengxingang/MolDiff)  
 
 * **Graph Inductive Biases in Transformers without Message Passing**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.17589.pdf) [\[code\]](https://github.com/LiamMa/GRIT)
 

@@ -759,182 +759,216 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Reprogramming Pretrained Language Models for Antibody Sequence Infilling**, *ICML*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.07144.pdf) [\[code\]](https://github.com/IBM/ReprogBERT)
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Accelerating Molecular Graph Neural Networks via Knowledge Distillation**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.14818.pdf) [\[code\]](https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md)
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **AI for Interpretable Chemistry: Predicting Radical Mechanistic Pathways via Contrastive Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **TensorNet: Cartesian Tensor Representations for Efficient Learning of Molecular Potentials**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Implicit Transfer Operator Learning: Multiple Time-Resolution Surrogates for Molecular Dynamics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler’s Rotation Equation**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Evaluating Self-Supervised Learning for Molecular Graph Embeddings**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **May the Force be with You: Unified Force-Centric Pre-Training for 3D Molecular Conformations**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Smooth, Exact Rotational Symmetrization for Deep Learning on Point Clouds**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **AbDiffuser: Full-Atom Generation of in vitro Functioning Antibodies**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Predicting Mutational Effects on Protein-protein Binding via a Aide-chain Diffusion Probabilistic Model**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Fragment-based Pretraining and Finetuning on Molecular Graphs**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Advancing Bayesian Optimization via Learning Correlated Latent Space**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Optimizing over Trained GNNs via Symmetry Breaking**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Molecule Joint Auto-Encoding: Trajectory Pretraining with 2D and 3D Diffusion**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Generating QM1B with PySCFIPU**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Expressivity-Preserving GNN Simulation**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **PLANE: Representation Learning over Planar Graphs**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Improving Self-supervised Molecular Representation Learning using Persistent Homology**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Compositional Sculpting of Iterative Generative Processes**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Trans-Dimensional Generative Modeling via Jump Diffusion Models**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **OpenProteinSet: Training Data for Structural Biology at Scale**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Sample-efficient Multi-objective Molecular Optimization with GFlowNets**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Graph Denoising Diffusion for Inverse Protein Folding**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **GAUCHE: A Library for Gaussian Processes in Chemistry**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **What Can Large Language Models Do in Chemistry? A Comprehensive Benchmark on Eight Tasks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **TARTARUS: A Benchmarking Platform for Realistic And Practical Inverse Molecular Design**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **ProteinShake Building Datasets and Benchmarks for Deep Learning on Protein Structures**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Uncovering Neural Scaling Laws in Molecular Representation Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Benchmark of Machine Learning Force Fields for Semiconductor Simulations: Datasets, Metrics, and Comparative Analysis**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Lo-Hi: Practical ML Drug Discovery Benchmark**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Affinity-Aware Graph Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Learning Adaptive Tensorial Density Fields for Clean Cryo-ET Reconstruction**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Lovász Principle for Unsupervised Graph Representation Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Improving Compositional Generalization using Iterated Learning and Simplicial Embeddings**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **On Learning Necessary and Sufficient Causal Graphs**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Approximately Equivariant Graph Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Learning Probabilistic Symmetrization for Architecture Agnostic Equivariance**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Clifford Group Equivariant Neural Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **A New Perspective on Building Efficient and Expressive 3D Equivariant Graph Neural Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Metropolis Sampling for Constrained Diffusion Models**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Principled Weight Initialisation for Input-Convex Neural Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Versatile Energy-Based Probabilistic Models for High Energy Physics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Learning to Group Auxiliary Datasets for Molecule**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Learning Invariant Molecular Representation in Latent Discrete Space**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **A Hierarchical Training Paradigm for Antibody Structure-sequence Co-design**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Prefix-Tree Decoding for Predicting Mass Spectra from Molecules**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Clifford Group Equivariant Neural Networks**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **QuinNet: Efficiently Incorporating Quintuple Interactions into Geometric Deep Learning Force Fields**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **The Geometry of Hidden Representations of Large Transformer Models**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **CELL-E 2: Translating Proteins to Pictures and Back with a Bidirectional Text-to-Image Transformer**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Newton–Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Predicting a Protein’s Stability under a Million Mutations**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Injecting Multimodal Information into Rigid Protein Docking via Bi-level Optimization**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Full-Atom Protein Pocket Design via Iterative Refinement**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **3D Molecule Generation by Denoising Voxel Grids**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **AVIDa-hIL6: A Large-Scale VHH Dataset Produced from an Immunized Alpaca for Predicting Antigen-Antibody Interactions**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Protein Design with Guided Discrete Diffusion**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Crystal Structure Prediction by Joint Equivariant Diffusion**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Understanding the Limitations of Deep Models for Molecular property prediction: Insights and Solutions**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Tanimoto Random Features for Scalable Molecular Machine Learning**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Estimating Koopman Operators with Sketching to Provably Learn Large Scale Dynamical Systems**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Geometric Algebra Transformer**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Is Distance Matrix Enough for Geometric Deep Learning?**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
 
-* ****, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+* **Data-Centric Learning from Unlabeled Graphs with Diffusion Model**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Variational Monte Carlo on a Budget – Fine-tuning pre-trained Neural Wavefunctions**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **SE(3) Equivariant Augmented Coupling Flows**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Learning Time-Invariant Representations for Individual Neurons from Population Dynamics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and Personalized Drug Interaction Modeling**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **ResoNet: Noise-Trained Physics-Informed MRI Off-Resonance Correction**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Transfer Learning for Atomistic Simulations Using GNNs and Kernel Mean Embeddings**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **FABind: Fast and Accurate Protein-Ligand Binding**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **CoDrug: Conformal Drug Property Prediction with Density Estimation under Covariate Shift**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Towards Symmetry-Aware Generation of Periodic Materials**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Timewarp: Transferable Acceleration of Molecular Dynamics by Learning Time-Coarsened Dynamics**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Equivariant Neural Operator Learning with Graphon Convolution**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Stochastic Optimal Control for Collective Variable Free Sampling of Molecular Transition Paths**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()
+
+* **Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**, *NeurIPS*, 2023. [\[pdf\]]() [\[code\]]()

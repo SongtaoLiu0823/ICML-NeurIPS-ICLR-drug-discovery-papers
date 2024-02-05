@@ -633,8 +633,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler’s Rotation Equation**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2301.10814.pdf) [\[code\]](https://github.com/wengong-jin/DSMBind)
 
-* **Evaluating Self-Supervised Learning for Molecular Graph Embeddings**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2206.08005.pdf) [\[code\]](https://github.com/hansen7/MolGraphEval)
-
 * **May the Force be with You: Unified Force-Centric Pre-Training for 3D Molecular Conformations**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=Ge8Mhggq0z) 
 
 * **Smooth, Exact Rotational Symmetrization for Deep Learning on Point Clouds**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.19302.pdf) [\[code\]](https://github.com/serfg/pet)
@@ -649,21 +647,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2210.08171.pdf) 
 
-* **Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2310.20447.pdf) [\[code\]](https://github.com/automl/lcpfn)
-
-* **Advancing Bayesian Optimization via Learning Correlated Latent Space**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2310.20258.pdf) [\[code\]](https://github.com/mlvlab/CoBO)
-
 * **Optimizing over Trained GNNs via Symmetry Breaking**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.09420.pdf) [\[code\]](https://github.com/cog-imperial/GNN_MIP_CAMD)
 
 * **Molecule Joint Auto-Encoding: Trajectory Pretraining with 2D and 3D Diffusion**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2312.03475.pdf) 
 
 * **Generating QM1B with PySCFIPU**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2311.01135.pdf) [\[code\]](https://github.com/graphcore-research/pyscf-ipu)
-
-* **Expressivity-Preserving GNN Simulation**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=ytTfonl9Wd) [\[code\]](https://github.com/ocatias/GNN-Simulation)
-
-* **PLANE: Representation Learning over Planar Graphs**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2307.01180.pdf) [\[code\]](https://github.com/ZZYSonny/PlanE)
-
-* **Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.15963.pdf) [\[code\]](https://github.com/ArthurLeoM/FGWMixup)
 
 * **Compositional Sculpting of Iterative Generative Processes**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=w79RtqIyoM) [\[code\]](https://github.com/timgaripov/compositional-sculpting)
 
@@ -697,19 +685,13 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Lo-Hi: Practical ML Drug Discovery Benchmark**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=hr9Bd1A9Un) [\[code\]](https://github.com/SAITPublic/MLFF-Framework)
 
-* **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2310.08252.pdf) [\[code\]](https://github.com/GMC-DRL/MetaBox)
-
 * **Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2312.07168.pdf) [\[code\]](https://github.com/AlgoMole/MolFM)
-
-* **Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=eWKqr1zcRv) [\[code\]](https://github.com/blt2114/twisted_diffusion_sampler)
 
 * **Learning Adaptive Tensorial Density Fields for Clean Cryo-ET Reconstruction**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=r7g9nFsulw) [\[code\]](https://github.com/yuanhaowang1213/adaptivetensordf)
 
 * **Improving Compositional Generalization using Iterated Learning and Simplicial Embeddings**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2310.18777.pdf) 
 
 * **Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**, *NeurIPS*, 2023. [\[pdf\]](https://openreview.net/pdf?id=35nFSbEBks) [\[code\]](https://github.com/ManlioWu/ESTAG)
-
-* **Learning Probabilistic Symmetrization for Architecture Agnostic Equivariance**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2306.02866.pdf) [\[code\]](https://github.com/jw9730/lps)
 
 * **Clifford Group Equivariant Neural Networks**, *NeurIPS*, 2023. [\[pdf\]](https://arxiv.org/pdf/2305.11141.pdf) [\[code\]](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks)
 

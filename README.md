@@ -2,7 +2,7 @@
 
 This repository contains a list of papers on drug discovery.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
+**Since I do not work on AI for Science, this list does not need to be updated.**  
 
 * **BASC: Applying Bayesian Optimization to the Search for Global Minima on Potential Energy Surfaces**, *ICML*, 2016. [\[pdf\]](http://proceedings.mlr.press/v48/carr16.pdf)   
 
